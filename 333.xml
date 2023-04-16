@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="utf-8"?>
+<input>
+	<processors n = "16">
+		<power proc = "1" value = "50" />
+		<power proc = "2" value = "90" />
+		<power proc = "3" value = "100" />
+		<power proc = "4" value = "70" />
+		<power proc = "5" value = "90" />
+		<power proc = "6" value = "100" />
+		<power proc = "7" value = "90" />
+		<power proc = "8" value = "100" />
+		<power proc = "9" value = "100" />
+		<power proc = "10" value = "90" />
+		<power proc = "11" value = "100" />
+		<power proc = "12" value = "100" />
+		<power proc = "13" value = "100" />
+		<power proc = "14" value = "100" />
+		<power proc = "15" value = "100" />
+		<power proc = "16" value = "90" />
+	</processors>
+	<program m = "150">
+		<load prog = "1" value = "10" />
+		<load prog = "2" value = "10" />
+		<load prog = "3" value = "5" />
+		<load prog = "4" value = "5" />
+		<load prog = "5" value = "5" />
+		<load prog = "6" value = "10" />
+		<load prog = "7" value = "5" />
+		<load prog = "8" value = "10" />
+		<load prog = "9" value = "5" />
+		<load prog = "10" value = "10" />
+		<load prog = "11" value = "15" />
+		<load prog = "12" value = "5" />
+		<load prog = "13" value = "5" />
+		<load prog = "14" value = "5" />
+		<load prog = "15" value = "15" />
+		<load prog = "16" value = "10" />
+		<load prog = "17" value = "15" />
+		<load prog = "18" value = "5" />
+		<load prog = "19" value = "15" />
+		<load prog = "20" value = "5" />
+		<load prog = "21" value = "10" />
+		<load prog = "22" value = "5" />
+		<load prog = "23" value = "5" />
+		<load prog = "24" value = "10" />
+		<load prog = "25" value = "5" />
+		<load prog = "26" value = "5" />
+		<load prog = "27" value = "5" />
+		<load prog = "28" value = "20" />
+		<load prog = "29" value = "10" />
+		<load prog = "30" value = "5" />
+		<load prog = "31" value = "5" />
+		<load prog = "32" value = "5" />
+		<load prog = "33" value = "10" />
+		<load prog = "34" value = "5" />
+		<load prog = "35" value = "10" />
+		<load prog = "36" value = "10" />
+		<load prog = "37" value = "5" />
+		<load prog = "38" value = "5" />
+		<load prog = "39" value = "10" />
+		<load prog = "40" value = "5" />
+		<load prog = "41" value = "5" />
+		<load prog = "42" value = "5" />
+		<load prog = "43" value = "5" />
+		<load prog = "44" value = "5" />
+		<load prog = "45" value = "10" />
+		<load prog = "46" value = "5" />
+		<load prog = "47" value = "15" />
+		<load prog = "48" value = "10" />
+		<load prog = "49" value = "5" />
+		<load prog = "50" value = "15" />
+		<load prog = "51" value = "5" />
+		<load prog = "52" value = "5" />
+		<load prog = "53" value = "5" />
+		<load prog = "54" value = "10" />
+		<load prog = "55" value = "5" />
+		<load prog = "56" value = "5" />
+		<load prog = "57" value = "10" />
+		<load prog = "58" value = "10" />
+		<load prog = "59" value = "5" />
+		<load prog = "60" value = "5" />
+		<load prog = "61" value = "5" />
+		<load prog = "62" value = "20" />
+		<load prog = "63" value = "10" />
+		<load prog = "64" value = "10" />
+		<load prog = "65" value = "10" />
+		<load prog = "66" value = "10" />
+		<load prog = "67" value = "15" />
+		<load prog = "68" value = "5" />
+		<load prog = "69" value = "5" />
+		<load prog = "70" value = "5" />
+		<load prog = "71" value = "15" />
+		<load prog = "72" value = "10" />
+		<load prog = "73" value = "10" />
+		<load prog = "74" value = "5" />
+		<load prog = "75" value = "5" />
+		<load prog = "76" value = "5" />
+		<load prog = "77" value = "5" />
+		<load prog = "78" value = "10" />
+		<load prog = "79" value = "5" />
+		<load prog = "80" value = "20" />
+		<load prog = "81" value = "20" />
+		<load prog = "82" value = "10" />
+		<load prog = "83" value = "5" />
+		<load prog = "84" value = "5" />
+		<load prog = "85" value = "5" />
+		<load prog = "86" value = "5" />
+		<load prog = "87" value = "10" />
+		<load prog = "88" value = "5" />
+		<load prog = "89" value = "5" />
+		<load prog = "90" value = "10" />
+		<load prog = "91" value = "10" />
+		<load prog = "92" value = "5" />
+		<load prog = "93" value = "5" />
+		<load prog = "94" value = "5" />
+		<load prog = "95" value = "5" />
+		<load prog = "96" value = "15" />
+		<load prog = "97" value = "15" />
+		<load prog = "98" value = "10" />
+		<load prog = "99" value = "5" />
+		<load prog = "100" value = "5" />
+		<load prog = "101" value = "10" />
+		<load prog = "102" value = "15" />
+		<load prog = "103" value = "5" />
+		<load prog = "104" value = "5" />
+		<load prog = "105" value = "5" />
+		<load prog = "106" value = "10" />
+		<load prog = "107" value = "5" />
+		<load prog = "108" value = "5" />
+		<load prog = "109" value = "5" />
+		<load prog = "110" value = "5" />
+		<load prog = "111" value = "5" />
+		<load prog = "112" value = "15" />
+		<load prog = "113" value = "15" />
+		<load prog = "114" value = "15" />
+		<load prog = "115" value = "5" />
+		<load prog = "116" value = "5" />
+		<load prog = "117" value = "10" />
+		<load prog = "118" value = "5" />
+		<load prog = "119" value = "10" />
+		<load prog = "120" value = "10" />
+		<load prog = "121" value = "5" />
+		<load prog = "122" value = "5" />
+		<load prog = "123" value = "5" />
+		<load prog = "124" value = "5" />
+		<load prog = "125" value = "5" />
+		<load prog = "126" value = "5" />
+		<load prog = "127" value = "10" />
+		<load prog = "128" value = "5" />
+		<load prog = "129" value = "15" />
+		<load prog = "130" value = "10" />
+		<load prog = "131" value = "15" />
+		<load prog = "132" value = "5" />
+		<load prog = "133" value = "5" />
+		<load prog = "134" value = "15" />
+		<load prog = "135" value = "5" />
+		<load prog = "136" value = "5" />
+		<load prog = "137" value = "5" />
+		<load prog = "138" value = "5" />
+		<load prog = "139" value = "10" />
+		<load prog = "140" value = "15" />
+		<load prog = "141" value = "5" />
+		<load prog = "142" value = "5" />
+		<load prog = "143" value = "10" />
+		<load prog = "144" value = "5" />
+		<load prog = "145" value = "10" />
+		<load prog = "146" value = "15" />
+		<load prog = "147" value = "5" />
+		<load prog = "148" value = "15" />
+		<load prog = "149" value = "5" />
+		<load prog = "150" value = "5" />
+	</program>
+	<pair_net k = "400">
+		<pair prog1 = "28" prog2 = "61" intensity = "10" />
+		<pair prog1 = "81" prog2 = "98" intensity = "0" />
+		<pair prog1 = "9" prog2 = "54" intensity = "70" />
+		<pair prog1 = "19" prog2 = "70" intensity = "0" />
+		<pair prog1 = "112" prog2 = "130" intensity = "100" />
+		<pair prog1 = "40" prog2 = "100" intensity = "10" />
+		<pair prog1 = "70" prog2 = "142" intensity = "10" />
+		<pair prog1 = "61" prog2 = "100" intensity = "10" />
+		<pair prog1 = "59" prog2 = "65" intensity = "10" />
+		<pair prog1 = "93" prog2 = "119" intensity = "0" />
+		<pair prog1 = "16" prog2 = "31" intensity = "0" />
+		<pair prog1 = "59" prog2 = "130" intensity = "50" />
+		<pair prog1 = "71" prog2 = "92" intensity = "50" />
+		<pair prog1 = "3" prog2 = "143" intensity = "50" />
+		<pair prog1 = "7" prog2 = "72" intensity = "0" />
+		<pair prog1 = "37" prog2 = "86" intensity = "50" />
+		<pair prog1 = "30" prog2 = "77" intensity = "0" />
+		<pair prog1 = "69" prog2 = "79" intensity = "0" />
+		<pair prog1 = "47" prog2 = "128" intensity = "50" />
+		<pair prog1 = "5" prog2 = "52" intensity = "10" />
+		<pair prog1 = "30" prog2 = "76" intensity = "70" />
+		<pair prog1 = "13" prog2 = "122" intensity = "50" />
+		<pair prog1 = "8" prog2 = "85" intensity = "0" />
+		<pair prog1 = "72" prog2 = "76" intensity = "10" />
+		<pair prog1 = "22" prog2 = "68" intensity = "50" />
+		<pair prog1 = "45" prog2 = "56" intensity = "0" />
+		<pair prog1 = "75" prog2 = "94" intensity = "10" />
+		<pair prog1 = "30" prog2 = "118" intensity = "0" />
+		<pair prog1 = "3" prog2 = "94" intensity = "100" />
+		<pair prog1 = "72" prog2 = "83" intensity = "0" />
+		<pair prog1 = "26" prog2 = "119" intensity = "50" />
+		<pair prog1 = "46" prog2 = "81" intensity = "0" />
+		<pair prog1 = "38" prog2 = "133" intensity = "0" />
+		<pair prog1 = "11" prog2 = "139" intensity = "0" />
+		<pair prog1 = "5" prog2 = "32" intensity = "0" />
+		<pair prog1 = "27" prog2 = "144" intensity = "0" />
+		<pair prog1 = "92" prog2 = "129" intensity = "10" />
+		<pair prog1 = "19" prog2 = "78" intensity = "0" />
+		<pair prog1 = "73" prog2 = "144" intensity = "0" />
+		<pair prog1 = "20" prog2 = "25" intensity = "50" />
+		<pair prog1 = "80" prog2 = "82" intensity = "0" />
+		<pair prog1 = "49" prog2 = "61" intensity = "0" />
+		<pair prog1 = "60" prog2 = "71" intensity = "0" />
+		<pair prog1 = "35" prog2 = "127" intensity = "0" />
+		<pair prog1 = "22" prog2 = "51" intensity = "0" />
+		<pair prog1 = "20" prog2 = "146" intensity = "10" />
+		<pair prog1 = "96" prog2 = "104" intensity = "0" />
+		<pair prog1 = "28" prog2 = "88" intensity = "10" />
+		<pair prog1 = "102" prog2 = "128" intensity = "10" />
+		<pair prog1 = "53" prog2 = "68" intensity = "0" />
+		<pair prog1 = "87" prog2 = "116" intensity = "0" />
+		<pair prog1 = "4" prog2 = "17" intensity = "50" />
+		<pair prog1 = "105" prog2 = "145" intensity = "10" />
+		<pair prog1 = "16" prog2 = "75" intensity = "0" />
+		<pair prog1 = "42" prog2 = "128" intensity = "0" />
+		<pair prog1 = "29" prog2 = "99" intensity = "50" />
+		<pair prog1 = "93" prog2 = "146" intensity = "0" />
+		<pair prog1 = "78" prog2 = "98" intensity = "0" />
+		<pair prog1 = "23" prog2 = "143" intensity = "70" />
+		<pair prog1 = "34" prog2 = "44" intensity = "0" />
+		<pair prog1 = "5" prog2 = "109" intensity = "0" />
+		<pair prog1 = "108" prog2 = "136" intensity = "100" />
+		<pair prog1 = "11" prog2 = "144" intensity = "70" />
+		<pair prog1 = "14" prog2 = "109" intensity = "10" />
+		<pair prog1 = "1" prog2 = "85" intensity = "0" />
+		<pair prog1 = "99" prog2 = "143" intensity = "70" />
+		<pair prog1 = "5" prog2 = "56" intensity = "10" />
+		<pair prog1 = "98" prog2 = "139" intensity = "100" />
+		<pair prog1 = "12" prog2 = "39" intensity = "0" />
+		<pair prog1 = "71" prog2 = "83" intensity = "10" />
+		<pair prog1 = "85" prog2 = "122" intensity = "50" />
+		<pair prog1 = "26" prog2 = "71" intensity = "50" />
+		<pair prog1 = "101" prog2 = "118" intensity = "50" />
+		<pair prog1 = "32" prog2 = "148" intensity = "0" />
+		<pair prog1 = "57" prog2 = "89" intensity = "0" />
+		<pair prog1 = "24" prog2 = "51" intensity = "0" />
+		<pair prog1 = "23" prog2 = "106" intensity = "0" />
+		<pair prog1 = "118" prog2 = "149" intensity = "0" />
+		<pair prog1 = "5" prog2 = "30" intensity = "0" />
+		<pair prog1 = "3" prog2 = "12" intensity = "10" />
+		<pair prog1 = "13" prog2 = "39" intensity = "0" />
+		<pair prog1 = "91" prog2 = "99" intensity = "0" />
+		<pair prog1 = "95" prog2 = "150" intensity = "0" />
+		<pair prog1 = "67" prog2 = "85" intensity = "70" />
+		<pair prog1 = "12" prog2 = "140" intensity = "0" />
+		<pair prog1 = "96" prog2 = "134" intensity = "0" />
+		<pair prog1 = "88" prog2 = "123" intensity = "0" />
+		<pair prog1 = "28" prog2 = "36" intensity = "0" />
+		<pair prog1 = "57" prog2 = "95" intensity = "50" />
+		<pair prog1 = "4" prog2 = "97" intensity = "10" />
+		<pair prog1 = "28" prog2 = "129" intensity = "0" />
+		<pair prog1 = "31" prog2 = "136" intensity = "50" />
+		<pair prog1 = "44" prog2 = "82" intensity = "100" />
+		<pair prog1 = "123" prog2 = "124" intensity = "0" />
+		<pair prog1 = "38" prog2 = "131" intensity = "0" />
+		<pair prog1 = "59" prog2 = "131" intensity = "10" />
+		<pair prog1 = "22" prog2 = "75" intensity = "0" />
+		<pair prog1 = "111" prog2 = "113" intensity = "50" />
+		<pair prog1 = "42" prog2 = "92" intensity = "0" />
+		<pair prog1 = "25" prog2 = "96" intensity = "10" />
+		<pair prog1 = "25" prog2 = "150" intensity = "0" />
+		<pair prog1 = "82" prog2 = "126" intensity = "10" />
+		<pair prog1 = "79" prog2 = "107" intensity = "50" />
+		<pair prog1 = "36" prog2 = "80" intensity = "50" />
+		<pair prog1 = "75" prog2 = "137" intensity = "100" />
+		<pair prog1 = "29" prog2 = "62" intensity = "0" />
+		<pair prog1 = "8" prog2 = "87" intensity = "0" />
+		<pair prog1 = "90" prog2 = "148" intensity = "50" />
+		<pair prog1 = "77" prog2 = "131" intensity = "0" />
+		<pair prog1 = "2" prog2 = "111" intensity = "0" />
+		<pair prog1 = "70" prog2 = "121" intensity = "0" />
+		<pair prog1 = "10" prog2 = "78" intensity = "0" />
+		<pair prog1 = "120" prog2 = "131" intensity = "0" />
+		<pair prog1 = "61" prog2 = "144" intensity = "10" />
+		<pair prog1 = "18" prog2 = "25" intensity = "10" />
+		<pair prog1 = "67" prog2 = "137" intensity = "10" />
+		<pair prog1 = "69" prog2 = "92" intensity = "0" />
+		<pair prog1 = "99" prog2 = "102" intensity = "50" />
+		<pair prog1 = "19" prog2 = "94" intensity = "0" />
+		<pair prog1 = "101" prog2 = "103" intensity = "10" />
+		<pair prog1 = "120" prog2 = "121" intensity = "50" />
+		<pair prog1 = "60" prog2 = "86" intensity = "10" />
+		<pair prog1 = "3" prog2 = "68" intensity = "0" />
+		<pair prog1 = "38" prog2 = "53" intensity = "0" />
+		<pair prog1 = "38" prog2 = "147" intensity = "10" />
+		<pair prog1 = "3" prog2 = "79" intensity = "10" />
+		<pair prog1 = "18" prog2 = "33" intensity = "0" />
+		<pair prog1 = "34" prog2 = "64" intensity = "70" />
+		<pair prog1 = "57" prog2 = "106" intensity = "70" />
+		<pair prog1 = "74" prog2 = "96" intensity = "10" />
+		<pair prog1 = "37" prog2 = "87" intensity = "0" />
+		<pair prog1 = "42" prog2 = "65" intensity = "10" />
+		<pair prog1 = "79" prog2 = "111" intensity = "0" />
+		<pair prog1 = "14" prog2 = "30" intensity = "10" />
+		<pair prog1 = "33" prog2 = "48" intensity = "0" />
+		<pair prog1 = "76" prog2 = "122" intensity = "0" />
+		<pair prog1 = "121" prog2 = "131" intensity = "0" />
+		<pair prog1 = "29" prog2 = "48" intensity = "0" />
+		<pair prog1 = "19" prog2 = "144" intensity = "0" />
+		<pair prog1 = "67" prog2 = "107" intensity = "0" />
+		<pair prog1 = "113" prog2 = "149" intensity = "10" />
+		<pair prog1 = "47" prog2 = "114" intensity = "0" />
+		<pair prog1 = "67" prog2 = "140" intensity = "0" />
+		<pair prog1 = "43" prog2 = "89" intensity = "10" />
+		<pair prog1 = "85" prog2 = "126" intensity = "10" />
+		<pair prog1 = "12" prog2 = "150" intensity = "10" />
+		<pair prog1 = "31" prog2 = "101" intensity = "0" />
+		<pair prog1 = "62" prog2 = "109" intensity = "0" />
+		<pair prog1 = "45" prog2 = "60" intensity = "50" />
+		<pair prog1 = "52" prog2 = "80" intensity = "0" />
+		<pair prog1 = "59" prog2 = "89" intensity = "0" />
+		<pair prog1 = "93" prog2 = "124" intensity = "0" />
+		<pair prog1 = "79" prog2 = "134" intensity = "0" />
+		<pair prog1 = "65" prog2 = "105" intensity = "0" />
+		<pair prog1 = "101" prog2 = "144" intensity = "10" />
+		<pair prog1 = "52" prog2 = "146" intensity = "0" />
+		<pair prog1 = "41" prog2 = "58" intensity = "10" />
+		<pair prog1 = "65" prog2 = "95" intensity = "0" />
+		<pair prog1 = "24" prog2 = "85" intensity = "0" />
+		<pair prog1 = "117" prog2 = "145" intensity = "0" />
+		<pair prog1 = "125" prog2 = "149" intensity = "0" />
+		<pair prog1 = "1" prog2 = "69" intensity = "0" />
+		<pair prog1 = "103" prog2 = "112" intensity = "0" />
+		<pair prog1 = "16" prog2 = "56" intensity = "70" />
+		<pair prog1 = "12" prog2 = "128" intensity = "0" />
+		<pair prog1 = "25" prog2 = "68" intensity = "10" />
+		<pair prog1 = "4" prog2 = "150" intensity = "0" />
+		<pair prog1 = "137" prog2 = "138" intensity = "0" />
+		<pair prog1 = "128" prog2 = "147" intensity = "0" />
+		<pair prog1 = "31" prog2 = "85" intensity = "10" />
+		<pair prog1 = "4" prog2 = "121" intensity = "50" />
+		<pair prog1 = "94" prog2 = "127" intensity = "0" />
+		<pair prog1 = "29" prog2 = "82" intensity = "0" />
+		<pair prog1 = "29" prog2 = "37" intensity = "0" />
+		<pair prog1 = "32" prog2 = "78" intensity = "10" />
+		<pair prog1 = "39" prog2 = "92" intensity = "0" />
+		<pair prog1 = "95" prog2 = "118" intensity = "0" />
+		<pair prog1 = "17" prog2 = "60" intensity = "100" />
+		<pair prog1 = "33" prog2 = "130" intensity = "10" />
+		<pair prog1 = "28" prog2 = "125" intensity = "0" />
+		<pair prog1 = "95" prog2 = "135" intensity = "0" />
+		<pair prog1 = "40" prog2 = "97" intensity = "70" />
+		<pair prog1 = "117" prog2 = "123" intensity = "50" />
+		<pair prog1 = "23" prog2 = "124" intensity = "0" />
+		<pair prog1 = "7" prog2 = "104" intensity = "0" />
+		<pair prog1 = "41" prog2 = "90" intensity = "0" />
+		<pair prog1 = "84" prog2 = "145" intensity = "0" />
+		<pair prog1 = "99" prog2 = "115" intensity = "50" />
+		<pair prog1 = "21" prog2 = "32" intensity = "50" />
+		<pair prog1 = "29" prog2 = "125" intensity = "0" />
+		<pair prog1 = "71" prog2 = "147" intensity = "0" />
+		<pair prog1 = "43" prog2 = "126" intensity = "0" />
+		<pair prog1 = "57" prog2 = "58" intensity = "0" />
+		<pair prog1 = "82" prog2 = "87" intensity = "10" />
+		<pair prog1 = "36" prog2 = "102" intensity = "0" />
+		<pair prog1 = "39" prog2 = "61" intensity = "50" />
+		<pair prog1 = "11" prog2 = "21" intensity = "10" />
+		<pair prog1 = "43" prog2 = "55" intensity = "70" />
+		<pair prog1 = "90" prog2 = "109" intensity = "10" />
+		<pair prog1 = "56" prog2 = "70" intensity = "10" />
+		<pair prog1 = "15" prog2 = "43" intensity = "10" />
+		<pair prog1 = "28" prog2 = "50" intensity = "0" />
+		<pair prog1 = "36" prog2 = "143" intensity = "0" />
+		<pair prog1 = "46" prog2 = "128" intensity = "10" />
+		<pair prog1 = "53" prog2 = "62" intensity = "0" />
+		<pair prog1 = "28" prog2 = "98" intensity = "10" />
+		<pair prog1 = "79" prog2 = "81" intensity = "0" />
+		<pair prog1 = "8" prog2 = "33" intensity = "70" />
+		<pair prog1 = "39" prog2 = "110" intensity = "0" />
+		<pair prog1 = "27" prog2 = "93" intensity = "10" />
+		<pair prog1 = "67" prog2 = "129" intensity = "10" />
+		<pair prog1 = "58" prog2 = "137" intensity = "10" />
+		<pair prog1 = "15" prog2 = "51" intensity = "0" />
+		<pair prog1 = "8" prog2 = "117" intensity = "0" />
+		<pair prog1 = "9" prog2 = "115" intensity = "10" />
+		<pair prog1 = "26" prog2 = "125" intensity = "10" />
+		<pair prog1 = "74" prog2 = "107" intensity = "0" />
+		<pair prog1 = "68" prog2 = "100" intensity = "10" />
+		<pair prog1 = "78" prog2 = "108" intensity = "0" />
+		<pair prog1 = "39" prog2 = "126" intensity = "0" />
+		<pair prog1 = "31" prog2 = "126" intensity = "0" />
+		<pair prog1 = "7" prog2 = "93" intensity = "0" />
+		<pair prog1 = "27" prog2 = "42" intensity = "0" />
+		<pair prog1 = "127" prog2 = "143" intensity = "10" />
+		<pair prog1 = "80" prog2 = "100" intensity = "70" />
+		<pair prog1 = "5" prog2 = "114" intensity = "0" />
+		<pair prog1 = "28" prog2 = "29" intensity = "0" />
+		<pair prog1 = "36" prog2 = "96" intensity = "50" />
+		<pair prog1 = "1" prog2 = "60" intensity = "0" />
+		<pair prog1 = "45" prog2 = "132" intensity = "0" />
+		<pair prog1 = "63" prog2 = "118" intensity = "0" />
+		<pair prog1 = "44" prog2 = "125" intensity = "10" />
+		<pair prog1 = "23" prog2 = "86" intensity = "0" />
+		<pair prog1 = "113" prog2 = "137" intensity = "0" />
+		<pair prog1 = "46" prog2 = "61" intensity = "0" />
+		<pair prog1 = "8" prog2 = "116" intensity = "10" />
+		<pair prog1 = "80" prog2 = "83" intensity = "10" />
+		<pair prog1 = "51" prog2 = "86" intensity = "0" />
+		<pair prog1 = "5" prog2 = "98" intensity = "10" />
+		<pair prog1 = "95" prog2 = "128" intensity = "10" />
+		<pair prog1 = "110" prog2 = "119" intensity = "0" />
+		<pair prog1 = "105" prog2 = "117" intensity = "0" />
+		<pair prog1 = "41" prog2 = "71" intensity = "50" />
+		<pair prog1 = "32" prog2 = "54" intensity = "10" />
+		<pair prog1 = "66" prog2 = "83" intensity = "10" />
+		<pair prog1 = "129" prog2 = "139" intensity = "10" />
+		<pair prog1 = "9" prog2 = "31" intensity = "0" />
+		<pair prog1 = "63" prog2 = "65" intensity = "0" />
+		<pair prog1 = "49" prog2 = "109" intensity = "0" />
+		<pair prog1 = "135" prog2 = "142" intensity = "0" />
+		<pair prog1 = "31" prog2 = "106" intensity = "70" />
+		<pair prog1 = "38" prog2 = "93" intensity = "10" />
+		<pair prog1 = "55" prog2 = "92" intensity = "0" />
+		<pair prog1 = "35" prog2 = "143" intensity = "10" />
+		<pair prog1 = "54" prog2 = "59" intensity = "10" />
+		<pair prog1 = "10" prog2 = "92" intensity = "0" />
+		<pair prog1 = "20" prog2 = "96" intensity = "0" />
+		<pair prog1 = "65" prog2 = "145" intensity = "10" />
+		<pair prog1 = "63" prog2 = "104" intensity = "10" />
+		<pair prog1 = "21" prog2 = "148" intensity = "0" />
+		<pair prog1 = "8" prog2 = "101" intensity = "0" />
+		<pair prog1 = "40" prog2 = "119" intensity = "100" />
+		<pair prog1 = "108" prog2 = "134" intensity = "50" />
+		<pair prog1 = "113" prog2 = "139" intensity = "0" />
+		<pair prog1 = "125" prog2 = "128" intensity = "70" />
+		<pair prog1 = "15" prog2 = "133" intensity = "10" />
+		<pair prog1 = "89" prog2 = "132" intensity = "50" />
+		<pair prog1 = "42" prog2 = "82" intensity = "10" />
+		<pair prog1 = "33" prog2 = "142" intensity = "10" />
+		<pair prog1 = "46" prog2 = "66" intensity = "0" />
+		<pair prog1 = "39" prog2 = "124" intensity = "10" />
+		<pair prog1 = "33" prog2 = "136" intensity = "0" />
+		<pair prog1 = "62" prog2 = "88" intensity = "10" />
+		<pair prog1 = "16" prog2 = "28" intensity = "0" />
+		<pair prog1 = "47" prog2 = "51" intensity = "0" />
+		<pair prog1 = "37" prog2 = "84" intensity = "0" />
+		<pair prog1 = "22" prog2 = "134" intensity = "0" />
+		<pair prog1 = "6" prog2 = "73" intensity = "0" />
+		<pair prog1 = "77" prog2 = "112" intensity = "50" />
+		<pair prog1 = "21" prog2 = "137" intensity = "50" />
+		<pair prog1 = "5" prog2 = "68" intensity = "10" />
+		<pair prog1 = "101" prog2 = "137" intensity = "100" />
+		<pair prog1 = "42" prog2 = "105" intensity = "50" />
+		<pair prog1 = "57" prog2 = "67" intensity = "10" />
+		<pair prog1 = "4" prog2 = "28" intensity = "0" />
+		<pair prog1 = "140" prog2 = "142" intensity = "0" />
+		<pair prog1 = "57" prog2 = "107" intensity = "0" />
+		<pair prog1 = "55" prog2 = "67" intensity = "10" />
+		<pair prog1 = "11" prog2 = "83" intensity = "70" />
+		<pair prog1 = "25" prog2 = "63" intensity = "0" />
+		<pair prog1 = "63" prog2 = "131" intensity = "0" />
+		<pair prog1 = "71" prog2 = "100" intensity = "0" />
+		<pair prog1 = "22" prog2 = "45" intensity = "10" />
+		<pair prog1 = "18" prog2 = "35" intensity = "10" />
+		<pair prog1 = "104" prog2 = "111" intensity = "10" />
+		<pair prog1 = "34" prog2 = "147" intensity = "0" />
+		<pair prog1 = "51" prog2 = "53" intensity = "0" />
+		<pair prog1 = "104" prog2 = "140" intensity = "0" />
+		<pair prog1 = "27" prog2 = "82" intensity = "100" />
+		<pair prog1 = "54" prog2 = "63" intensity = "10" />
+		<pair prog1 = "12" prog2 = "148" intensity = "0" />
+		<pair prog1 = "14" prog2 = "21" intensity = "0" />
+		<pair prog1 = "68" prog2 = "105" intensity = "0" />
+		<pair prog1 = "36" prog2 = "92" intensity = "100" />
+		<pair prog1 = "33" prog2 = "69" intensity = "10" />
+		<pair prog1 = "21" prog2 = "69" intensity = "0" />
+		<pair prog1 = "14" prog2 = "31" intensity = "10" />
+		<pair prog1 = "37" prog2 = "64" intensity = "10" />
+		<pair prog1 = "37" prog2 = "124" intensity = "10" />
+		<pair prog1 = "24" prog2 = "136" intensity = "70" />
+		<pair prog1 = "54" prog2 = "121" intensity = "0" />
+		<pair prog1 = "89" prog2 = "122" intensity = "70" />
+		<pair prog1 = "21" prog2 = "135" intensity = "10" />
+		<pair prog1 = "40" prog2 = "60" intensity = "0" />
+		<pair prog1 = "132" prog2 = "137" intensity = "0" />
+		<pair prog1 = "57" prog2 = "75" intensity = "0" />
+		<pair prog1 = "110" prog2 = "134" intensity = "0" />
+		<pair prog1 = "22" prog2 = "104" intensity = "0" />
+		<pair prog1 = "21" prog2 = "97" intensity = "0" />
+		<pair prog1 = "8" prog2 = "12" intensity = "50" />
+		<pair prog1 = "111" prog2 = "137" intensity = "70" />
+		<pair prog1 = "85" prog2 = "112" intensity = "0" />
+		<pair prog1 = "92" prog2 = "95" intensity = "0" />
+		<pair prog1 = "37" prog2 = "50" intensity = "100" />
+		<pair prog1 = "111" prog2 = "146" intensity = "10" />
+		<pair prog1 = "15" prog2 = "65" intensity = "50" />
+		<pair prog1 = "87" prog2 = "144" intensity = "10" />
+		<pair prog1 = "62" prog2 = "135" intensity = "0" />
+		<pair prog1 = "127" prog2 = "138" intensity = "0" />
+		<pair prog1 = "31" prog2 = "54" intensity = "0" />
+		<pair prog1 = "14" prog2 = "97" intensity = "0" />
+		<pair prog1 = "8" prog2 = "131" intensity = "0" />
+		<pair prog1 = "1" prog2 = "101" intensity = "70" />
+		<pair prog1 = "4" prog2 = "127" intensity = "0" />
+		<pair prog1 = "91" prog2 = "133" intensity = "0" />
+		<pair prog1 = "56" prog2 = "97" intensity = "0" />
+		<pair prog1 = "29" prog2 = "67" intensity = "10" />
+		<pair prog1 = "74" prog2 = "85" intensity = "50" />
+		<pair prog1 = "31" prog2 = "150" intensity = "10" />
+		<pair prog1 = "8" prog2 = "16" intensity = "0" />
+		<pair prog1 = "38" prog2 = "97" intensity = "0" />
+		<pair prog1 = "21" prog2 = "91" intensity = "10" />
+		<pair prog1 = "96" prog2 = "115" intensity = "50" />
+		<pair prog1 = "17" prog2 = "131" intensity = "10" />
+		<pair prog1 = "77" prog2 = "124" intensity = "10" />
+		<pair prog1 = "28" prog2 = "43" intensity = "100" />
+		<pair prog1 = "44" prog2 = "73" intensity = "50" />
+		<pair prog1 = "20" prog2 = "131" intensity = "50" />
+		<pair prog1 = "101" prog2 = "111" intensity = "0" />
+		<pair prog1 = "141" prog2 = "147" intensity = "0" />
+		<pair prog1 = "57" prog2 = "131" intensity = "0" />
+		<pair prog1 = "81" prog2 = "100" intensity = "0" />
+		<pair prog1 = "2" prog2 = "30" intensity = "50" />
+		<pair prog1 = "43" prog2 = "137" intensity = "50" />
+		<pair prog1 = "9" prog2 = "146" intensity = "0" />
+		<pair prog1 = "35" prog2 = "113" intensity = "70" />
+		<pair prog1 = "54" prog2 = "126" intensity = "10" />
+		<pair prog1 = "64" prog2 = "81" intensity = "10" />
+		<pair prog1 = "41" prog2 = "148" intensity = "0" />
+		<pair prog1 = "31" prog2 = "73" intensity = "0" />
+		<pair prog1 = "45" prog2 = "121" intensity = "0" />
+		<pair prog1 = "114" prog2 = "138" intensity = "10" />
+		<pair prog1 = "62" prog2 = "97" intensity = "0" />
+		<pair prog1 = "22" prog2 = "84" intensity = "10" />
+		<pair prog1 = "31" prog2 = "53" intensity = "10" />
+		<pair prog1 = "49" prog2 = "81" intensity = "0" />
+		<pair prog1 = "33" prog2 = "96" intensity = "0" />
+		<pair prog1 = "50" prog2 = "53" intensity = "10" />
+		<pair prog1 = "81" prog2 = "141" intensity = "70" />
+		<pair prog1 = "72" prog2 = "129" intensity = "10" />
+		<pair prog1 = "73" prog2 = "130" intensity = "10" />
+		<pair prog1 = "46" prog2 = "97" intensity = "0" />
+		<pair prog1 = "94" prog2 = "104" intensity = "0" />
+		<pair prog1 = "103" prog2 = "114" intensity = "10" />
+		<pair prog1 = "65" prog2 = "147" intensity = "70" />
+		<pair prog1 = "3" prog2 = "24" intensity = "70" />
+		<pair prog1 = "34" prog2 = "119" intensity = "10" />
+		<pair prog1 = "18" prog2 = "47" intensity = "50" />
+		<pair prog1 = "11" prog2 = "146" intensity = "0" />
+		<pair prog1 = "29" prog2 = "42" intensity = "10" />
+		<pair prog1 = "30" prog2 = "79" intensity = "50" />
+		<pair prog1 = "19" prog2 = "100" intensity = "0" />
+		<pair prog1 = "11" prog2 = "135" intensity = "50" />
+		<pair prog1 = "1" prog2 = "107" intensity = "10" />
+		<pair prog1 = "54" prog2 = "62" intensity = "0" />
+		<pair prog1 = "120" prog2 = "143" intensity = "0" />
+		<pair prog1 = "34" prog2 = "133" intensity = "0" />
+		<pair prog1 = "13" prog2 = "21" intensity = "0" />
+		<pair prog1 = "8" prog2 = "104" intensity = "0" />
+		<pair prog1 = "74" prog2 = "139" intensity = "70" />
+		<pair prog1 = "93" prog2 = "131" intensity = "0" />
+		<pair prog1 = "9" prog2 = "90" intensity = "0" />
+		<pair prog1 = "69" prog2 = "98" intensity = "0" />
+		<pair prog1 = "4" prog2 = "68" intensity = "10" />
+		<pair prog1 = "136" prog2 = "150" intensity = "0" />
+		<pair prog1 = "24" prog2 = "134" intensity = "0" />
+		<pair prog1 = "60" prog2 = "94" intensity = "0" />
+		<pair prog1 = "29" prog2 = "110" intensity = "100" />
+		<pair prog1 = "80" prog2 = "136" intensity = "0" />
+		<pair prog1 = "77" prog2 = "148" intensity = "50" />
+	</pair_net>
+</input>
